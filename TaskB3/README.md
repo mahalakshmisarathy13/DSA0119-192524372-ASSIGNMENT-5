@@ -1,0 +1,1 @@
+B3 benchmark starter comparing virtual dispatch and a switch-based representation. Run with -O2 and arguments 1000, 1000000, and 10000000. Timings depend on your computer; record your own results. Exception-rate benchmark and std::variant extension remain experimental/report work.

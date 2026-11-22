@@ -1,0 +1,10 @@
+Compile check using g++ -std=c++17 -Wall -Wextra
+TaskA1/main.cpp: PASS
+TaskA2/main.cpp: PASS
+TaskA3/main.cpp: PASS
+TaskA4/main.cpp: PASS
+TaskA5/main.cpp: PASS
+TaskB1/main.cpp: PASS
+TaskB2/main.cpp: PASS
+TaskB3/main.cpp: PASS
+TaskB4/main.cpp: PASS

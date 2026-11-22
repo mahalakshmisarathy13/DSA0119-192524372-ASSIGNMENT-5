@@ -1,0 +1,1 @@
+B2 completes approve() and settle() TODOs, demonstrates rethrowing, and includes the validation/logging/prediction example. The bad_alloc stress case should be run separately and cautiously on your own machine.

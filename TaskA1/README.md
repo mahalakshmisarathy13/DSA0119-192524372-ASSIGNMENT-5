@@ -1,0 +1,1 @@
+A1 support program: abstract Bill interface, four concrete bill types, and one polymorphic collection. The assignment's UML diagram, standard pseudocode, and written comparison are report deliverables, not replaced by this code.
